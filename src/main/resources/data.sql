@@ -1,0 +1,9 @@
+insert into enneagram_type (index, name) values (1, 'The Reformer');
+insert into enneagram_type (index, name) values (2, 'The Helper');
+insert into enneagram_type (index, name) values (3, 'The Achiever');
+insert into enneagram_type (index, name) values (4, 'The Individualist');
+insert into enneagram_type (index, name) values (5, 'The Investigator');
+insert into enneagram_type (index, name) values (6, 'The Loyalist');
+insert into enneagram_type (index, name) values (7, 'The Enthusiast');
+insert into enneagram_type (index, name) values (8, 'The Challenger');
+insert into enneagram_type (index, name) values (9, 'The Peacemaker');
