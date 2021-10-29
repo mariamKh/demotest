@@ -1,4 +1,4 @@
-# demotest
+# Demo
 Demo Test for Spring Boot basics
 
 Run the application from Intellij (Community edition is fine).
